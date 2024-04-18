@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonDecimal" type="id" />
+    <item name="buttonMultiply" type="id" />
+    <item name="buttonEquals" type="id" />
+    <item name="buttonSubtract" type="id" />
+    <item name="buttonDivide" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="button8" type="id" />
+    <item name="buttonClear" type="id" />
+    <item name="button9" type="id" />
+    <item name="button7" type="id" />
+    <item name="display" type="id" />
+    <item name="main" type="id" />
+</resources>
