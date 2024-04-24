@@ -12,4 +12,8 @@
     <item name="button7" type="id" />
     <item name="display" type="id" />
     <item name="main" type="id" />
+    <item name="textViewInput" type="id" />
+    <item name="buttonPlusMinus" type="id" />
+    <item name="buttonPercent" type="id" />
+    <item name="buttonDot" type="id" />
 </resources>

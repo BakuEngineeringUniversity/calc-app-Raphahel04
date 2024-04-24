@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darker_gray">#AAAAAAAA</color>
+    <!-- Yeni gri rengi ekle -->
+    <color name="my_gray">#FF808080</color>
 </resources>
